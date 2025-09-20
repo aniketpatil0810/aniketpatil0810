@@ -29,4 +29,4 @@ Adept at solving business problems through data-driven strategies, with excellen
 
 ## Education  
 
-- B.Tech (IT) – KIT’s College of Engineering, Kolhapur (2021 – 2025) – 67.5%  
+- B.Tech – KIT’s College of Engineering, Kolhapur (2021 – 2025) – CGPA 7.25 
