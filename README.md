@@ -1,4 +1,4 @@
-# Hello, I'm Aniket Patil
+# Hello 👋, I'm Aniket Patil 
 
 ## Data Analyst | Aspiring Data Scientist  
 
