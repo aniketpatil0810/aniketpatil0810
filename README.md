@@ -1,4 +1,11 @@
-# Hello👋, I'm Aniket Patil 
+<h1 align="center"><b>Hello , I'm Aniket Patil </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=750&height=100&lines=Results-driven+Data+Analyst;Skilled+in+Python%2C+SQL%2C+Power+BI%2C+Tableau;Passionate+about+Data+Analytics+%26+Visualization;EDA+%7C+Business+Intelligence+%7C+Insights;Active+Learner+%26+Aspiring+Data+Scientist+🚀" />
+  </a>
+</p>
+
 
 ## Data Analyst | Aspiring Data Scientist  
 
@@ -33,7 +40,11 @@ Adept at solving business problems through data-driven strategies, with excellen
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## Education  
 
 - B.Tech – KIT’s College of Engineering, Kolhapur (2021 – 2025) – CGPA 7.25
+
+Credit: [Aniket Patil]( https://github.com/aniketpatil0810 ) 
+
