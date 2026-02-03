@@ -27,6 +27,13 @@ Adept at solving business problems through data-driven strategies, with excellen
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## Education  
 
-- B.Tech – KIT’s College of Engineering, Kolhapur (2021 – 2025) – CGPA 7.25 
+- B.Tech – KIT’s College of Engineering, Kolhapur (2021 – 2025) – CGPA 7.25
